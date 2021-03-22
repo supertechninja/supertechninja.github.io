@@ -21,14 +21,15 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+     materialdesignflutter
+     androidthings
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -40,7 +41,7 @@ projects:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-#   twitter: jtmacsa
+     twitter: jtmacsa
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
